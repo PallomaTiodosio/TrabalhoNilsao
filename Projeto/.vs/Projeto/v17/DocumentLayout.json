@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\repositorio\\contrato\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\contrato\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:43:44.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T12:08:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Endereco\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Index.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Endereco\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T11:22:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "RelativeToolTip": "Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:12:53.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "Projeto\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "Projeto\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:45:14.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Projeto\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
+              "RelativeToolTip": "Projeto\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:03:56.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Projeto\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Projeto\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:58:43.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Projeto\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Endereco.cs",
+              "RelativeToolTip": "Projeto\\Models\\Endereco.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:12:45.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T11:31:57.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\EnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Repositorio\\EnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\EnderecoRepositorio.cs",
+              "RelativeToolTip": "Projeto\\Repositorio\\EnderecoRepositorio.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:56:37.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T11:39:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Projeto\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Projeto\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-31T11:33:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T11:22:05.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
